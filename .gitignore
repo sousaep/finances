@@ -169,3 +169,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Sensitive data files
+sources/*.xlsx
+sources/*.xls
+sources/*.csv
+sources/*.pdf
+sources/*.txt
+database-prd/*.db
+database-dev/*.db
